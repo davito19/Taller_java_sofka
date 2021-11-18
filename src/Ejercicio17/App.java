@@ -3,7 +3,7 @@ package Ejercicio17;
 import java.util.ArrayList;
 import java.util.List;
 
-public class main {
+public class App {
     public static void main(String[] args) {
         List<Electrodomestico> electrodomesticos = new ArrayList<>();
         electrodomesticos.add(new Electrodomestico());
